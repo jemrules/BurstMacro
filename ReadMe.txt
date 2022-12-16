@@ -5,5 +5,5 @@ Social:
   Github: https://github.com/jemrules/BurstMacro
 
 Note:
-  If you want to make a video on this auto hot key script, then you have to link a my social's in the description.
+  If you want to make a video on this AutoHotKey script, then you have to link a my social's in the description.
   Thank you!
